@@ -5,7 +5,7 @@ Part 2: 个人经历
 
 最熟悉的语言：PHP
 
-熟悉的语言：JavaScript、SQL、Python go node
+熟悉的语言：js，jq、sql、python go node
 
 了解过的语言：rust  move 
 
