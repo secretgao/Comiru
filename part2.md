@@ -19,7 +19,7 @@ Web 后端开发、移动端 API 接口开 SaaS 平台开发
 
 Q3. 请写出你使用过的相关技术栈：
 
-MVC 框架：laravel、yii，thinkphp
+MVC 框架：laravel、yii，thinkphp，nestjs，koa
 
 ORM 工具：Eloquent ORM
 
